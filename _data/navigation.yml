@@ -4,16 +4,16 @@ main:
   #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: /
-  - title: "Work"
-    url: work/
-  - title: "Projects"
-    url: projects/
+  #- title: "Work"
+  #  url: work/
+  #- title: "Projects"
+  #  url: projects/
   - title: "Posts"
     url: posts/
-  - title: "Achievements"
-    url: achievements/
+  #- title: "Achievements"
+  #  url: achievements/
   - title: "Resume"
-    url: assets\pdfs\Srimouli_Borusu_Resume.pdf
+    url: assets/pdfs/Srimouli_Borusu_Resume.pdf
   - title: "Contact"
     url: contact/
   # - title: "Sample Posts"
